@@ -12,7 +12,7 @@
  - [C#](#c-1)
  - [CSS](#css)
  - [HTML](#html)
- - [C](undefined)
+ - [C](#c)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [Go](#go)
